@@ -1,0 +1,105 @@
+# Linha =  4 Coluna =  3 Orientacao =        Movimentos =  25
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  3 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  3 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  4 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  5 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  6 Orientacao =  Leste
+run
+# H = 0 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Leste
+run
+# H = 1 L = 1
+run
+# Linha =  2 Coluna =  7 Orientacao =  Norte
+run
+# H = 1 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  2 Coluna =  7 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  7 Orientacao =  Sul  
+run
+# H = 1 L = 0
+run
+# Linha =  3 Coluna =  7 Orientacao =  Leste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  7 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  7 Orientacao =  Oeste
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  6 Orientacao =  Oeste
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  5 Orientacao =  Oeste
+run
+# H = 0 L = 1
+run
+# Linha =  3 Coluna =  4 Orientacao =  Oeste
+run
+# H = 0 L = 0
+run
+# Linha =  3 Coluna =  4 Orientacao =  Sul  
+run
+# H = 0 L = 0
+run
+# Linha =  4 Coluna =  4 Orientacao =  Sul  
+run
+# H = 0 L = 1
+run
+# Linha =  5 Coluna =  4 Orientacao =  Sul  
+run
+# H = 1 L = 1
+run
+# Linha =  5 Coluna =  4 Orientacao =  Leste
+run
+# H = 1 L = 0
+run
+# Linha =  5 Coluna =  4 Orientacao =  Norte
+run
+# H = 0 L = 0
+run
+# Linha =  5 Coluna =  4 Orientacao =  Oeste
+run
+# ** Note: $stop    : C:/intelFPGA_lite/18.1/atividade12/Robo_TB.v(60)
+#    Time: 5150 ns  Iteration: 0  Instance: /Robo_TB
+# Break in Module Robo_TB at C:/intelFPGA_lite/18.1/atividade12/Robo_TB.v line 60
