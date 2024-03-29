@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/RuanCxrdoso/Projeto-Robo">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MiCorreia/seguidor-de-muro">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RuanCxrdoso/Projeto-Robo">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MiCorreia/seguidor-de-muro">
   
-  <a href="https://github.com/RuanCxrdoso/Projeto-Robo/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/RuanCxrdoso/Projeto-Robo">
+  <a href="https://github.com/MiCorreia/seguidor-de-muro/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MiCorreia/seguidor-de-muro">
   </a>
 
    <a href="https://github.com/RuanCxrdoso/Projeto-Robo/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/RuanCxrdoso/Projeto-Robo?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/MiCorreia/seguidor-de-muro?style=social">
   </a>
 </p>
 
